@@ -1,0 +1,6 @@
+.vs/
+ZegoCsharpWinformDemo/bin
+ZegoCsharpWinformDemo/obj
+# User-specific files
+*.suo
+/lib
